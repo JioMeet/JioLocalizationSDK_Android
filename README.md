@@ -163,4 +163,4 @@ The JioLocalizationSDK_Android demonstrates how to integrate the jiolocalization
 
 
 ### TroubleShooting
-Facing any issues while integrating or installing the JioLocalization iOS SDK kit, please connect with us via https://translate.jio/contact-us.html
+Facing any issues while integrating or installing the JioLocalization Android SDK kit, please connect with us via https://translate.jio/contact-us.html
